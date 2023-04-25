@@ -9,6 +9,8 @@ http://192.168.10.1:35455/douyu/99999
 http://192.168.10.1:35455/douyu/6301433
 #EXTINF:-1 group-title="英雄联盟",芜湖大司马丶
 http://192.168.10.1:35455/douyu/606118
+#EXTINF:-1 group-title="英雄联盟",Pdd
+http://192.168.10.1:35455/douyu/101
 #EXTINF:-1 tvg-logo="https://sta-op.douyucdn.cn/vod-cover/2022/12/22/04b776b5960ee1a85cb64d7981d83ff6.png/vdy1" group-title="热门游戏",一条小团团OvO
 http://192.168.10.1:35455/douyu/2222
 #EXTINF:-1 group-title="魔兽争霸",th000
